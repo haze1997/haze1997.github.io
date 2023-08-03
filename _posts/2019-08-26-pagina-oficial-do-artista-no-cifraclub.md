@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pagina Oficial do Artista no Cifra Club
+author: haze1997
 feature-img: "assets/img/uploads/cifraclub.png"
 thumbnail: "assets/img/uploads/cifraclub.png"
 tags: [CifraClub, Artista, Musica]
