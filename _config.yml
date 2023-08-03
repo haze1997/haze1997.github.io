@@ -6,7 +6,7 @@ url: "https://haze1997.github.io"
 title: Type on Strap                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/JS_logo_icon.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/JS_logo_icon.png #assets/favicon.ico                              Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
