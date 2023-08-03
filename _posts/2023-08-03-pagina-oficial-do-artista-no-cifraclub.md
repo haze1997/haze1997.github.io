@@ -8,6 +8,6 @@ categories: Musica
 ---
 
 
-Seja bem-vindo(a) ao blog do Artista Jessé Schardosim.
-Para saber mais sobre os mais novos sucessos do Artista no Cifra Club clique no link abaixo:
+Seja bem-vindo(a) ao blog do Artista Jessé Schardosim.  
+Para saber mais sobre os mais novos sucessos do Artista no Cifra Club clique no link abaixo:  
 <a href="https://www.cifraclub.com.br/jesse-schardosim/" target="_blank">https://www.cifraclub.com.br/jesse-schardosim/</a>
