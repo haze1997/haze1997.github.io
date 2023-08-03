@@ -10,7 +10,7 @@ favicon: assets/img/JS_logo_icon.png #assets/favicon.ico                        
 
 # Header and footer text
 header_text: Site Oficial do Artista  # Change Blog header text
-header_feature_image: assets/img/header/guitar_js_wallpaper.jpg
+header_feature_image: assets/img/header/guitar_wallpaper.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
