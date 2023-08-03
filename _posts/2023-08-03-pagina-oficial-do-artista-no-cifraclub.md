@@ -9,4 +9,4 @@ categories: Musica
 
 Seja bem-vindo(a) ao blog do Artista Jessé Schardosim.
 Para saber mais sobre os mais novos sucessos do Arista no Cifra Club clique no link abaixo:
-[Pagina do Arista Jessé Schardosim no Cifra Club](https://www.cifraclub.com.br/jesse-schardosim/)
+<a href="https://www.cifraclub.com.br/jesse-schardosim/" target="_blank">https://www.cifraclub.com.br/jesse-schardosim/</a>
