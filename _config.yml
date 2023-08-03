@@ -3,8 +3,8 @@ baseurl: ""
 url: "https://haze1997.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+title: Jessé Schardosim | Blog                                   # site's title
+description: "Site Oficial do Artista"      # used by search engines
 avatar: assets/img/JS_logo_icon.png                         # Empty for no avatar in navbar
 favicon: assets/img/JS_logo_icon.png #assets/favicon.ico                              Icon displayed in the tab
 
