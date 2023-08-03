@@ -2,8 +2,8 @@
 layout: post
 title: Só queria saber - Video
 author: haze1997
-feature-img: "http://img.youtube.com/vi/lOHIlAwKDh0/hqdefault.jpg"
-thumbnail: "http://img.youtube.com/vi/lOHIlAwKDh0/hqdefault.jpg"
+feature-img: "http://img.youtube.com/vi/lOHIlAwKDh0/maxresdefault.jpg"
+thumbnail: "http://img.youtube.com/vi/lOHIlAwKDh0/maxresdefault.jpg"
 tags: [Video, Artista, Musica]
 categories: Musica
 ---
