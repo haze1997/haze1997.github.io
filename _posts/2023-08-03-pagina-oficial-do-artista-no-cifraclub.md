@@ -2,6 +2,7 @@
 layout: post
 title: Pagina Oficial do Artista no Cifra Club
 feature-img: "assets/img/uploads/cifraclub.png"
+thumbnail: "assets/img/uploads/cifraclub.png"
 tags: [CifraClub, Artista, Musica]
 categories: Musica
 ---
