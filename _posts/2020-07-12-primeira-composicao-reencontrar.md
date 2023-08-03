@@ -8,5 +8,5 @@ tags: [Video, Artista, Musica]
 categories: Musica
 ---
 
-[![Reencontrar - Jessé Schardosim](https://img.youtube.com/vi/7k-bJBEiSAc/0.jpg)](https://www.youtube.com/watch?v=7k-bJBEiSAc)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7k-bJBEiSAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 Fala Galera. Esta é minha primeira composição, espero que gostem. Curtam e compartilhem.
