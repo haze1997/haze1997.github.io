@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Só queria saber - Video
+title: Só Queria Saber - Video
 author: haze1997
 feature-img: "http://img.youtube.com/vi/lOHIlAwKDh0/maxresdefault.jpg"
 thumbnail: "http://img.youtube.com/vi/lOHIlAwKDh0/maxresdefault.jpg"
