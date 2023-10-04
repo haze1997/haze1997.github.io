@@ -186,7 +186,15 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2023 haze1997
+   This code includes portions from the Type-on-Strap repository,
+   which is licensed under the MIT License (see LICENSE-MIT.txt in the root of this project).
+   You may access the original repository at
+
+       https://github.com/sylhare/Type-on-Strap
+
+   Copyright (c) 2016-2023 Sylhare
+
+   Copyright (c) 2018-2023 haze1997
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
