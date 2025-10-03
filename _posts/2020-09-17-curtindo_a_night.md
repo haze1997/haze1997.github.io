@@ -9,6 +9,4 @@ categories: Musica
 ---
 
 <iframe width="1125" height="633" src="https://www.youtube.com/embed/tjOs5ctjMnM" title="Só queria saber - Jessé Schardosim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-Fala aí pessoal. Essa é uma composição minha: Curtindo a Night. Clique no link abaixo para ouvir nas plataformas de música:  
-<a href="https://push.fm/fl/xAHNk622" target="_blank">https://push.fm/fl/xAHNk622</a>  
-Curtam e compartilhem. Até mais.
+Fala aí pessoal. Essa é uma composição minha: Curtindo a Night. Você pode <a href="https://push.fm/fl/xAHNk622" target="_blank">ouvir nas plataformas de música</a>. Curtam e compartilhem.
