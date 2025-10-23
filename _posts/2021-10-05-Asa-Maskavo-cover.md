@@ -2,8 +2,8 @@
 layout: post
 title: Asas - Maskavo [cover por Jessé Schardosim]
 author: haze1997
-feature-img: "http://img.youtube.com/vi/YETq_Zrar_g/maxresdefault.jpg"
-thumbnail: "http://img.youtube.com/vi/YETq_Zrar_g/maxresdefault.jpg"
+feature-img: "https://img.youtube.com/vi/YETq_Zrar_g/maxresdefault.jpg"
+thumbnail: "https://img.youtube.com/vi/YETq_Zrar_g/maxresdefault.jpg"
 tags: [Video, Artista, Musica]
 categories: Musica
 ---
