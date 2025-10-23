@@ -2,8 +2,8 @@
 layout: post
 title: Curtindo a Night - Video
 author: haze1997
-feature-img: "http://img.youtube.com/vi/tjOs5ctjMnM/maxresdefault.jpg"
-thumbnail: "http://img.youtube.com/vi/tjOs5ctjMnM/maxresdefault.jpg"
+feature-img: "https://img.youtube.com/vi/tjOs5ctjMnM/maxresdefault.jpg"
+thumbnail: "https://img.youtube.com/vi/tjOs5ctjMnM/maxresdefault.jpg"
 tags: [Video, Artista, Musica]
 categories: Musica
 ---
