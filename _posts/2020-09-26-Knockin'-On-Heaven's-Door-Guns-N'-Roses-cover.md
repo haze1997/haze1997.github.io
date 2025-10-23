@@ -2,8 +2,8 @@
 layout: post
 title: Knockin' On Heaven's Door - Guns N' Roses [cover por Jessé Schardosim]
 author: haze1997
-feature-img: "http://img.youtube.com/vi/IIbeGwnqEi0/maxresdefault.jpg"
-thumbnail: "http://img.youtube.com/vi/IIbeGwnqEi0/maxresdefault.jpg"
+feature-img: "https://img.youtube.com/vi/IIbeGwnqEi0/maxresdefault.jpg"
+thumbnail: "https://img.youtube.com/vi/IIbeGwnqEi0/maxresdefault.jpg"
 tags: [Video, Artista, Musica]
 categories: Musica
 ---
