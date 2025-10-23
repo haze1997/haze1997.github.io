@@ -2,8 +2,8 @@
 layout: post
 title: Reencontrar - Video
 author: haze1997
-feature-img: "http://img.youtube.com/vi/7k-bJBEiSAc/maxresdefault.jpg"
-thumbnail: "http://img.youtube.com/vi/7k-bJBEiSAc/maxresdefault.jpg"
+feature-img: "https://img.youtube.com/vi/7k-bJBEiSAc/maxresdefault.jpg"
+thumbnail: "https://img.youtube.com/vi/7k-bJBEiSAc/maxresdefault.jpg"
 tags: [Video, Artista, Musica]
 categories: Musica
 ---
